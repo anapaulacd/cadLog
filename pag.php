@@ -176,7 +176,8 @@
   </main>
 
   <footer class="mt-auto text-white-50">
-    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>template obitido no  <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado  <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p> projeto criado por  <a href="https://github.com/anapaulacd/cadLog.git" class="text-white">@anapaulacd</a>.</p>
+  </footer>
   </footer>
 </div>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
