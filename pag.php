@@ -20,6 +20,57 @@
 <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
+      /*
+ * Globals
+ */
+
+
+/* Custom default button */
+.btn-light,
+.btn-light:hover,
+.btn-light:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
+}
+
+
+/*
+ * Base structure
+ */
+
+body {
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+}
+
+.cover-container {
+  max-width: 42em;
+}
+
+
+/*
+ * Header
+ */
+
+.nav-masthead .nav-link {
+  color: rgba(255, 255, 255, .5);
+  border-bottom: .25rem solid transparent;
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: rgba(255, 255, 255, .25);
+}
+
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem;
+}
+
+.nav-masthead .active {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
       .bd-placeholder-IMG {
         font-size: 1.125rem;
         text-anchor: middle;
@@ -171,10 +222,8 @@
     <h1>seja Bem-vind@</h1>
     <p class="lead"> Essa página é a página principal de um pequeno projeto criado para o ensino de acesso á base de dados utilizando PHP como linguagem de bach-end. Acesse o repositório do projeto no</p>
     <p class="lead">
-      <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">github</a>
-    </p>
-  </main>
-
+      <a href="https://github.com/anapaulacd/cadLog.git" class="btn btn-lg btn-light fw-bold border-white bg-white">github</a>
+    </main>
   <footer class="mt-auto text-white-50">
     <p>template obitido no  <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado  <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p> projeto criado por  <a href="https://github.com/anapaulacd/cadLog.git" class="text-white">@anapaulacd</a>.</p>
   </footer>
