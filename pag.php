@@ -222,10 +222,10 @@ body {
     <h1>seja Bem-vind@</h1>
     <p class="lead"> Essa página é a página principal de um pequeno projeto criado para o ensino de acesso á base de dados utilizando PHP como linguagem de bach-end. Acesse o repositório do projeto no</p>
     <p class="lead">
-      <a href="https://www.linkedin.com/in/ana-paula-2286b823a/" class="btn btn-lg btn-light fw-bold border-white bg-white">github</a>
+      <a href="https://github.com/anapaulacd/cadLog.git" class="btn btn-lg btn-light fw-bold border-white bg-white">github</a>
     </main>
   <footer class="mt-auto text-white-50">
-    <p>template obitido no  <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado  <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p> projeto criado por  <a href="https://github.com/anapaulacd/cadLog.git" class="text-white">@anapaulacd</a>.</p>
+    <p>template obitido no  <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado  <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p> projeto criado por  <a href="https://www.linkedin.com/in/ana-paula-2286b823a/" class="text-white">@anapaulacd</a>.</p>
   </footer>
   </footer>
 </div>
