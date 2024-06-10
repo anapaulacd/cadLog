@@ -158,11 +158,11 @@
 <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="mb-auto">
     <div>
-      <h3 class="float-md-start mb-0"></h3>
+      <h3 class="float-md-start mb-0">cadastro</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link fw-bold py-1 px-0x" aria-current="pag.php" href="pag.php">Home</a>
-        <a class="nav-link fw-bold py-1 px-0" href="cadastro.php">Cadastro</a>
-        <a class="nav-link fw-bold py-1 px-0 active" href="log.php">login</a>
+        <a class="nav-link fw-bold py-1 px-0 active" href="cadastro.php">Cadastro</a>
+        <a class="nav-link fw-bold py-1 px-0 " href="log.php">login</a>
       </nav>
     </div>
   </header>
@@ -194,7 +194,7 @@
   </main>
 
   <footer class="mt-auto text-white-50">
-    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>template obtido no <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p> projeto criado por <a href="https://www.linkedin.com/in/ana-paula-2286b823a/" class="text-white">@anapaulacd</a>.</p>
   </footer>
 </div>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>

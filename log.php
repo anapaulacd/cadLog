@@ -158,7 +158,7 @@
 <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="mb-auto">
     <div>
-      <h3 class="float-md-start mb-0">Cover</h3>
+      <h3 class="float-md-start mb-0">login</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link fw-bold py-1 px-0 " aria-current="pag.php" href="pag.php">Home</a>
         <a class="nav-link fw-bold py-1 px-0" href="cadastro.php">Cadastro</a>
@@ -179,12 +179,15 @@
         <label for="inputAddress" class="form-label">Senha</label>
         <input type="text" class="form-control" id="senha" placeholder="">
       </div><br>
-      
+      <
+      <div class="col-3">
+        <button type="submit" class="btn btn-dark">Cadastrar</button>
+      </div><br>
     </form>
   </main>
 
   <footer class="mt-auto text-white-50">
-    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Cover template for <a href="https://github.com/anapaulacd/cadLog.git" class="text-white">Bootstrap</a>, criado <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>projeto criado por <a href="https://www.linkedin.com/in/ana-paula-2286b823a/" class="text-white">@anapaulacd</a>.</p>
   </footer>
 </div>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
