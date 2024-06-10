@@ -29,7 +29,7 @@
 Nessa atividade usamos conceitos básicos da linguagem PHP 
   Com esse trabalho eu entendi um pouco mais de PHP conheci um pouco melhor a linguagem.
 
-# autores
+## autores
  
 [Ana Paula](https://github.com/anapaulacd)
  
