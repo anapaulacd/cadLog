@@ -1,6 +1,6 @@
 # Aplicação de cadastro e login
  
-![foto](img)
+![foto](imagem/Gravando%202024-06-10%20094133%20(1).gif)
  
  ## Descrição
  Este projeto é uma pequena aplicação web desenvolvida em PHP, utilizando Bootstrap 5+ para estilização. A aplicação inclui uma tela principal, uma tela de login e uma tela de cadastro, todas interligadas e funcionando. Onde o usuario consegue prencher e se cadastra e ou fazer login.
@@ -16,13 +16,9 @@
  
 * HTML
  
-* Google
- 
 * Git
  
 * Github
- 
-* Captura de tela
  
 * CSS
  
