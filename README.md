@@ -2,24 +2,13 @@
  
 ![foto](img)
  
- 
- 
-## Descrição
- 
+ ## Descrição
+ Este projeto é uma pequena aplicação web desenvolvida em PHP, utilizando Bootstrap 5+ para estilização. A aplicação inclui uma tela principal, uma tela de login e uma tela de cadastro, todas interligadas e funcionando. Onde o usuario consegue prencher e se cadastra e ou fazer login.
 
- 
- 
- 
-### sites pesquisados
- 
- https://www.aen.pr.gov.br/Noticia/Maior-do-Brasil-governador-confirma-novo-Piso-Regional-que-vai-de-R-18-mil-R-21-mil#:~:text=Na%20primeira%2C%20que%20contempla%20os,de%20R%24%201.927%2C02
- 
- 
- 
-## Funcionalidades
- 
-* calcular a comissão dos funcionários;
-* O site calcula tanto para adição como subtração.
+ ## Funcionalidades
+* Tela Principal (pag.php): Página inicial da aplicação, acessível a todos os usuários.
+* Tela de Login (log.php): Permite que os usuários façam login.
+* Tela de Cadastro (cadastro.php): Permite que novos usuários se registrem na aplicação.
  
 ## 💻 tecnologias utilizadas
  
@@ -37,23 +26,13 @@
  
 * CSS
  
+ ## Fontes consultadas
+ [Bootstrap](https://getbootstrap.com/docs/5.0/examples/cover/)
  
- 
-## Fontes consultadas
- 
- 
- 
- 
- 
-## 📄 Aprendizados
-Nessa atividade usamos conceitos básicos da linguagem PHP para fazer as somas e porcentagens de acordo com os valores adicionados no HTML através das áreas que reservei para isso e estilizei com CSS.
+ ## 📄 Aprendizados
+Nessa atividade usamos conceitos básicos da linguagem PHP 
   Com esse trabalho eu entendi um pouco mais de PHP conheci um pouco melhor a linguagem.
-Pratiquei conceito básico de HTML e CSS.
-Entendi como funciona as contas de porcentagem no PHP.
- 
- 
- 
- 
+
 # autores
  
 [Ana Paula](https://github.com/anapaulacd)
